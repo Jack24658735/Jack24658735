@@ -24,7 +24,6 @@ I'm a college student from EE Dept. of NTHU. I'm Interested in programming codin
 - [**1st PLACE**](https://www.hccg.gov.tw/ch/home.jsp?id=48&parentpath=&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202010250004&t=MunicipalNews&mserno=201601300020) in [MeiChu Hackathon Competition 2020](https://github.com/Jack24658735/Meichu2020_Team_726)
 - Undergraduate student(2020) of NTHU EE [VSLab](https://aliensunmin.github.io/lab/info.html) (Instructor: Prof. [Min Sun](https://scholar.google.com/citations?user=1Rf6sGcAAAAJ&hl=en))
 - Electrical Engineering and Computer Science Scholarship (High Distinction Award), NTHU
-  - 
 
 ## 🔧 Tool & Skills
 - C/C++, Python, Matlab, Verilog
