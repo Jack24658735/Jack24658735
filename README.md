@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 Introduction
-I'm a college student from EE Dept. of NTHU. I'm Interested in programming coding by Python for DL/ML/CV fields. I have enthusiasm for ***Computer Vision*** in particular. So, I'm often reading some documents to improve my insight about this field. Also, I'm skilled at developing problem-solving methods for different challenging tasks, and learning new technologies and tools if demands arises. Now, I'm devoted to studying AI compiler and AI accelerator for internship at **Synopsys** (until *Jun.2022*).
+Currently, I’m a graduate student pursuing my M.S. degree in the Communication Engineering Dept at NTU. I'm advised by [Yu‑Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/ycwang.html) at [Vision and Learning Lab](http://vllab.ee.ntu.edu.tw/). My research primarily revolves around multiple CV domains, including but not limited to Federated Learning, 3D generation, Self-supervised Learning, Transfer Learning, Vision & Language, etc. Through my dedication and continuous exploration, I aim to contribute to the advancement of Computer Vision while expanding my knowledge and expertise in this exciting field. Also, I'm skilled at developing problem-solving methods for different challenging tasks, and learning new technologies and tools if demands arise.
+Previously, I was an intern at **Synopsys** (until *Jun.2022*), developing and studying AI compilers and AI accelerators. I have completed my B.S. degree at NTHU, majoring in Electrical Engineering (EE) with a concentration in Computer Vision and Deep Learning as advised by [Min-Sun](https://aliensunmin.github.io/).
 
 ## 🏆 Experience & honors
 - Internship in Solution Group(SG) at **Synopsys**
