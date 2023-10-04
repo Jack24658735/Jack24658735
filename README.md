@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### *News: One conference paper is under review at ICCV 2023*
+#### *News: One conference paper is under review at AAAI 2024*
 
 ## 💬 Introduction
 Currently, I’m a graduate student pursuing my M.S. degree in the Communication Engineering Dept at NTU. I'm advised by [Yu‑Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/ycwang.html) at [Vision and Learning Lab](http://vllab.ee.ntu.edu.tw/). My research primarily revolves around multiple CV domains, including but not limited to Federated Learning, 3D generation, Self-supervised Learning, Transfer Learning, Vision & Language, etc. Through my dedication and continuous exploration, I aim to contribute to the advancement of Computer Vision while expanding my knowledge and expertise in this exciting field. Also, I'm skilled at developing problem-solving methods for different challenging tasks, and learning new technologies and tools if demands arise.
